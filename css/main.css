@@ -641,6 +641,9 @@ video {
 .bg-blue{
   background-color: #11467A;
 }
+.bg-sky-blue{
+  background-color:#F1F8FF ;
+}
 
 .p-5 {
   padding: 1.25rem;
@@ -757,7 +760,7 @@ video {
   color: rgb(115 115 115 / var(--tw-text-opacity));
 }
 .w-10 {
-  width: 200px ;
+  width: 100% ;
 }
 .text-red{
   color: red;
